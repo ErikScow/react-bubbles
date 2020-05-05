@@ -31,6 +31,14 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ] Describe how web servers work.
 - [ ] Which HTTP methods can be mapped to the CRUD acronym that we use when interfacing with APIs/Servers.
 
+ANSWERS HERE
+
+1. A token is attached to the localStorage to verify that the user is logged in, or that they have access to certain things.
+2. To keep data secure in web apps, you can build your web sites to require authentication in order to request data from an api. Build an AxiosWithAuth() function.
+3. Web servers work as a network of machines and/or software to provide data from a database through an api, through your internet provider and your home.
+4. C: create, .post(); R: read, .get(); U: update, .put(); D: delete, .delete().
+
+
 
 ## Project Set Up
 
